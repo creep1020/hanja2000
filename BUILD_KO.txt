@@ -1,0 +1,1 @@
+ZIP을 풀어 GitHub 저장소 루트에 올린 후 Actions > Build Android APK > Run workflow. 성공하면 Artifacts에서 hanja-2000-debug 다운로드. 실제 빌드 미실행. 디버그 APK는 테스트용이며 재빌드 시 서명키가 달라질 수 있음. 업데이트 전 학습 기록 백업 필요.
